@@ -80,7 +80,7 @@ nav ul li a:hover::after{
 
 /* <!-- ----------About-------- --> */
 
-.about{
+#about{
     padding: 80px 0;
     columns: #e2d4d4;
 }
@@ -149,7 +149,7 @@ nav ul li a:hover::after{
 }
 
 /* -----------services------------ */
-.Services{
+#Services{
     padding: 30px 0;
 }
 .services-list{
@@ -189,7 +189,7 @@ nav ul li a:hover::after{
 }
 
 /* ---------------portfolio----------- */
-.portfolio{
+#portfolio{
     padding: 50px 0;
 }
 .work-list{
